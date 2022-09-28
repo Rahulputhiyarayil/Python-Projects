@@ -1,2 +1,3 @@
 # Python Projects
-This is my first repository
+
+This repository contains some beginner level python projects
