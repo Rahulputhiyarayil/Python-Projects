@@ -1,3 +1,3 @@
 # Python Projects
 
-This repository contains some beginner level python projects
+This repository contains some beginner level python projects.
